@@ -37,11 +37,11 @@ To create a GitHub Personal Access Token (PAT):
 ## Usage
 
 ```bash
-curl -X POST https://your-deployment.vercel.app/api/agent \
+curl -X POST https://vercel-ship-25-coding-agent-cian.vercel.app/ \
   -H "Content-Type: application/json" \
   -d '{
-    "prompt": "update readme to say hey were so back",
-    "repoUrl": "https://github.com/nicoalbanese/ai-sdk-langgraph/"
+    "prompt": "update readme to say Cian updated this",
+    "repoUrl": https://github.com/mutaician/vercel-ship-25-coding-agent"
   }'
 ```
 
