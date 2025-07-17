@@ -36,15 +36,17 @@ To create a GitHub Personal Access Token (PAT):
 
 ## Contributing
 
-Contributions are welcome! To contribute to this project, please follow these steps:
+Thank you for considering contributing to this project! Please follow these steps to contribute:
 
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request describing your changes.
+1. **Fork** the repository.
+2. **Create a new branch** for your feature or bugfix: `git checkout -b feature/your-feature`
+3. **Make your changes** and ensure your code follows the existing style.
+4. **Test** your changes to ensure everything works correctly.
+5. **Commit** your changes: `git commit -m 'Add your feature'`
+6. **Push** to your branch: `git push origin feature/your-feature`
+7. **Open a pull request** and describe your changes.
 
-Please ensure your code follows the existing style and passes all tests.
+Please ensure all pull requests are well documented and tested. If your contribution fixes a bug or adds a feature, please update the relevant documentation.
 
 ## Usage
 
